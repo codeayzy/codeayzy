@@ -82,14 +82,10 @@
 
 ### `// BEYOND_CODE`
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>🏋️ 健身</b><br/>撸铁 · 街头健身<br/>跑步 · 篮球</td>
-    <td align="center" width="25%"><b>🎮 游戏</b><br/>3A 大作<br/>开放世界 RPG</td>
-    <td align="center" width="25%"><b>🎬 自媒体</b><br/>健身日常<br/>技术分享 · 游戏娱乐</td>
-    <td align="center" width="25%"><b>📚 学习</b><br/>AI · Web3<br/>Game · APP · 永不停歇</td>
-  </tr>
-</table>
+| 🏋️ 健身 | 🎮 游戏 | 🎬 自媒体 | 📚 学习 |
+| :---: | :---: | :---: | :---: |
+| 撸铁 · 街头健身 | 3A 大作 | 健身日常 | AI · Web3 |
+| 跑步 · 篮球 | 开放世界 RPG | 技术分享 · 游戏娱乐 | Game · APP · 永不停歇 |
 
 ---
 
