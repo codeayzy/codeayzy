@@ -29,7 +29,7 @@
 - 🏋️ 健身达人：撸铁、篮球、跑步、街头健身
 - 🎮 3A 游戏爱好者 & 自媒体创作者
 - 📚 持续学习最新知识 —— 求知欲是长久的快乐
-- 💰 目标：环游世界 🌍
+- 🎯 目标：可能性创造者 —— 把不存在，造进现实
 
 ---
 
@@ -88,7 +88,7 @@
 [![Email](https://img.shields.io/badge/MAIL-MUERZY%40GMAIL.COM-050a12?style=for-the-badge&logo=gmail&logoColor=E84A8A)](mailto:muerzy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-MUERZY-050a12?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/muerzy)
 
-<sub>目标环游世界 🌍 · UTC+8 · 用代码编织世界 ✨</sub>
+<sub>可能性创造者 · UTC+8 · 用代码编织世界 ✨</sub>
 
 </div>
 
